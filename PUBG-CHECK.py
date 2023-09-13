@@ -7,7 +7,7 @@ print("""
 ██╔═══╝ ██║   ██║██╔══██╗██║   ██║
 ██║     ╚██████╔╝██████╔╝╚██████╔╝
 ╚═╝      ╚═════╝ ╚═════╝  ╚═════╝ 
-        @AhmedoPlus and @vv1ck
+        @ittz_danyar and @tools_vip
 """)
 ID= input('[+] Enter YOUR ID : ')
 token = input('[+] Enter TOKEN BOT : ')
